@@ -1,1 +1,2 @@
-# gold_price_prediction
+# Gold Price Prediction
+## Implementation with Tensorflow on AWS
